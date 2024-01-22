@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Alba's GitHub stats](https://github-readme-stats.vercel.app/api?username=albamartinmz&show_icons=true&theme=tokyonight &include_all_commits=true)
+![Alba's GitHub stats](https://github-readme-stats.vercel.app/api?username=albamartinmz&show_icons=true&theme=tokyonight_&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albamartinmz&layout=compact)](https://github.com/albamartinmz/github-readme-stats)
