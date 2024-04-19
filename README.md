@@ -3,7 +3,7 @@
 # I'm Alba, a Junior Full Stack Developer.
 
 Welcome to my GitHub profile! 
-**albamartinmz/albamartinmz** is a ✨ _special_ ✨ repository because its my `README.md`
+**albamartinmz/albamartinmz** is a ✨ _special repository_ ✨ because its my `README.md`
 
 <!--
 **albamartinmz/albamartinmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+***
 
 ## 🛠  Technologies and Tools
 <div>
@@ -39,12 +41,19 @@ Here are some ideas to get you started:
 
 <div/>
 
+***
+
 ## 📖  What I am currently learning / improving on
 
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />&nbsp;
 
-![Alba's GitHub stats](https://github-readme-stats.vercel.app/api?username=albamartinmz&show_icons=true&theme=radical&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albamartinmz&layout=compact)](https://github.com/albamartinmz/github-readme-stats)
+***
 
 ## 🔍  Where to find me
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/alba-martin-martinez-51b2552a2/)
+
+***
+
+![Alba's GitHub stats](https://github-readme-stats.vercel.app/api?username=albamartinmz&show_icons=true&theme=radical&include_all_commits=true)
+
