@@ -1,10 +1,9 @@
-## Hello World! 👋
+## Hello World! 👋 
 
 # I'm Alba, a Junior Full Stack Developer.
 
 Welcome to my GitHub profile! 
-**albamartinmz/albamartinmz** is a ✨ _special repository_ ✨ because its my `README.md`
-
+**albamartinmz/albamartinmz** is a ✨ _special repository_ ✨ because its my `README.md` 
 <!--
 **albamartinmz/albamartinmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,6 +42,10 @@ Here are some ideas to get you started:
 
 ***
 
+![Alba's GitHub stats](https://github-readme-stats.vercel.app/api?username=albamartinmz&show_icons=true&theme=radical&include_all_commits=true)
+
+***
+
 ## 📖  What I am currently learning / improving on
 
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />&nbsp;
@@ -54,6 +57,4 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/alba-martin-martinez-51b2552a2/)
 
 ***
-
-![Alba's GitHub stats](https://github-readme-stats.vercel.app/api?username=albamartinmz&show_icons=true&theme=radical&include_all_commits=true)
 
